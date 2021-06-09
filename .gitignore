@@ -1,0 +1,3 @@
+*.txt
+runs/
+__pycache__/
